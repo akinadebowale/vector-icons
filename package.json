@@ -1,5 +1,5 @@
 {
-  "name": "@expo/vector-icons",
+  "name": "@expo/vector-icons-20190606",
   "sideEffects": false,
   "version": "10.0.1",
   "description": "Built-in support for popular icon fonts and the tooling to create your own Icon components from your font and glyph map. This is a wrapper around react-native-vector-icons to make it compatible with Expo.",
@@ -20,14 +20,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/vector-icons.git"
+    "url": "https://github.com/akinadebowale/vector-icons-20190606.git"
   },
   "keywords": [
     "expo"
   ],
   "author": "Brent Vatne",
   "contributors": [
-    "Evan Bacon <bacon@expo.io> (https://github.com/evanbacon)"
+    "Evan Bacon <bacon@expo.io> (https://github.com/evanbacon)",
+    "Akin Adebowale <akin@blacktag.com> (https://github.com/akinadebowale)"
   ],
   "license": "MIT",
   "bugs": {
